@@ -408,6 +408,10 @@ a {
         margin-bottom: 20px;
     }
 
+    .nosotros-txt span {
+        color: #ffffff;
+    }
+
     .products {
         padding: 30px;
         text-align: center;
