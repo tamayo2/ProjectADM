@@ -139,3 +139,40 @@ body {
     box-shadow: 0 0 20px rgb(0, 0, 0, 0.1);
     border-radius: 20px;
 }
+
+.info-1 img {
+    width: 35px;
+}
+
+.info-1 h3 {
+    font-size: 18px;
+    color: #303030;
+    margin-bottom: 10px;
+}
+
+.info-1 p {
+    font-size: 16px;
+    color: #545454;
+}
+
+.nosotros {
+    position: relative;
+}
+
+.bg-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 400px;
+    z-index: -1;
+}
+
+.nosotros-info {
+    display: flex;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.nosotros-img {
+    width: 50%;
+}
