@@ -176,3 +176,30 @@ body {
 .nosotros-img {
     width: 50%;
 }
+
+.nosotros-img img {
+    width: 650px;
+}
+
+.nosotros-txt {
+    width: 50%;
+}
+
+.nosotros-txt span {
+    font-size: 16px;
+    color: #ff9f0d;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.nosotros-txt h2 {
+    font-size: 45px;
+    color: #545454;
+    margin-bottom: 30px;
+}
+
+.nosotros-txt p {
+    font-size: 18px;
+    color: #545454;
+    margin-bottom: 50px;
+}
